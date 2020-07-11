@@ -3,4 +3,4 @@
 
 🌱 I use Java, Kotlin, Python and Javascript. I'm looking forward to learn other languages, too!
 
-📫 You can reach me on Discord 김코어#0957 or with email [kimcoreovo@gmail.com](mailto:kimcoreovo@gmail.com)!
+📫 You can reach me on Discord 김코어#0957, or with email [kimcoreovo@gmail.com](mailto:kimcoreovo@gmail.com)!
